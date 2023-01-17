@@ -1,3 +1,5 @@
+// Version 1.0
+
 // "Sounding out" - for Disquiet Junto 0576 submission.                           ###
 // https://llllllll.co/t/disquiet-junto-project-0576-casual-resolution/60604/10.  ###
 // My first proper SC script (it's a little rough.)                               ###
